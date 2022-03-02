@@ -7,7 +7,7 @@ ABCDEFGHIJKLMNOPQRSTUVWXYZ,
 "/f_f/space/f_f_i/space/f_f_l/space/fi/space/fl \012ff/space ffi/space ffl/space fi/space fl",
 "emaio@gmail"
 );
-copyright = "Copyright 1995-2021 The Send Flowers Project Authors (https://github.com/googlefonts/square-peg)";
+copyright = "Copyright 1995-2021 The Square Peg Project Authors (https://github.com/googlefonts/square-peg)";
 customParameters = (
 {
 name = fsType;
@@ -115,15 +115,15 @@ value = 0;
 },
 {
 name = typoAscender;
-value = 900;
+value = 920;
 },
 {
 name = hheaAscender;
-value = 900;
+value = 920;
 },
 {
 name = winAscent;
-value = 900;
+value = 920;
 },
 {
 name = winDescent;
@@ -30545,5 +30545,5 @@ manufacturer = "Robert E. Leuschke";
 manufacturerURL = www.typesetit.com;
 unitsPerEm = 1000;
 versionMajor = 1;
-versionMinor = 2;
+versionMinor = 3;
 }
