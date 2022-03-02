@@ -5,7 +5,8 @@ DisplayStrings = (
 abcdefghijklmnopqrstuvwxyz,
 ABCDEFGHIJKLMNOPQRSTUVWXYZ,
 "/f_f/space/f_f_i/space/f_f_l/space/fi/space/fl \012ff/space ffi/space ffl/space fi/space fl",
-"emaio@gmail"
+"emaio@gmail",
+"nn/Placeholder no/Placeholder oo/space HH/Placeholder HO/Placeholder OO\012o.,:;/ellipsis !¡?¿nn?·/bullet *#///backslash/periodcentered.loclCAT (){}[]-­/endash/emdash/hyphentwo _o/quotesinglbase/quotedblbase \012/quotedblbase/quotedblleft/quotedblright/quoteleft/quoteright «»/guilsinglleft/guilsinglright \"'/leftanglebracket-math/rightanglebracket-math @"
 );
 copyright = "Copyright 1995-2021 The Square Peg Project Authors (https://github.com/googlefonts/square-peg)";
 customParameters = (
@@ -172,6 +173,7 @@ userData = {
 GSOffsetHorizontal = 2;
 GSOffsetVertical = 2;
 };
+weightValue = 400;
 xHeight = 260;
 }
 );
@@ -20318,8 +20320,9 @@ note = semicolon;
 unicode = 003B;
 },
 {
+color = 0;
 glyphname = ellipsis;
-lastChange = "2022-03-02 02:51:37 +0000";
+lastChange = "2022-03-02 04:19:44 +0000";
 layers = (
 {
 components = (
@@ -20328,15 +20331,19 @@ name = period;
 },
 {
 name = period;
+transform = "{1, 0, 0, 1, 86, 0}";
 },
 {
 name = period;
+transform = "{1, 0, 0, 1, 174, 0}";
 }
 );
 layerId = "2018A826-CC5C-461A-95E5-9D849642E9B7";
-width = 169;
+width = 343;
 }
 );
+leftMetricsKey = period;
+rightMetricsKey = period;
 unicode = 2026;
 },
 {
@@ -21706,8 +21713,9 @@ width = 160;
 unicode = 201A;
 },
 {
+color = 0;
 glyphname = quotedblbase;
-lastChange = "2022-03-02 02:51:37 +0000";
+lastChange = "2022-03-02 04:19:41 +0000";
 layers = (
 {
 components = (
@@ -21716,12 +21724,15 @@ name = comma;
 },
 {
 name = comma;
+transform = "{1, 0, 0, 1, 78, 0}";
 }
 );
 layerId = "2018A826-CC5C-461A-95E5-9D849642E9B7";
-width = 160;
+width = 238;
 }
 );
+leftMetricsKey = comma;
+rightMetricsKey = comma;
 unicode = 201E;
 },
 {
@@ -26698,6 +26709,18 @@ width = 260;
 unicode = 2202;
 },
 {
+color = 0;
+glyphname = micro;
+lastChange = "2022-03-02 04:16:31 +0000";
+layers = (
+{
+layerId = "2018A826-CC5C-461A-95E5-9D849642E9B7";
+width = 600;
+}
+);
+unicode = 00B5;
+},
+{
 glyphname = percent;
 lastChange = "2022-03-02 02:51:37 +0000";
 layers = (
@@ -30517,16 +30540,7 @@ width = 177;
 );
 instances = (
 {
-customParameters = (
-{
-name = postscriptFullName;
-value = "Square Peg Regular";
-},
-{
-name = postscriptFontName;
-value = "Square Peg-Regular";
-}
-);
+interpolationWeight = 400;
 instanceInterpolations = {
 "2018A826-CC5C-461A-95E5-9D849642E9B7" = 1;
 };
@@ -30545,5 +30559,5 @@ manufacturer = "Robert E. Leuschke";
 manufacturerURL = www.typesetit.com;
 unitsPerEm = 1000;
 versionMajor = 1;
-versionMinor = 3;
+versionMinor = 4;
 }
