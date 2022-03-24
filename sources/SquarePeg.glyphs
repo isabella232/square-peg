@@ -1,7 +1,7 @@
 {
 .appVersion = "1352";
 DisplayStrings = (
-"/tildecomb/tildecomb_macroncomb/otildemacron",
+"amor/space amor/space amor\012",
 "/circumflexcomb.case Â/Acircumflexdotbelow/Ccircumflex Ê/Ecircumflexdotbelow/Gcircumflex/Hcircumflex Î/Jcircumflex Ô/Ocircumflexdotbelow/Scircumflex Û/Wcircumflex/Ycircumflex/circumflexcomb_acutecomb.case/circumflexcomb_gravecomb.case/circumflexcomb_hookabovecomb.case/circumflexcomb_tildecomb.case",
 "/circumflexcomb â/acircumflexdotbelow/ccircumflex ê/ecircumflexdotbelow/gcircumflex/hcircumflex î/jcircumflex ô/ocircumflexdotbelow/scircumflex û/wcircumflex/ycircumflex/circumflex à/circumflexcomb_acutecomb/acircumflexacute/ecircumflexacute/ocircumflexacute/circumflexcomb/circumflexcomb_gravecomb/circumflexcomb_hookabovecomb/circumflexcomb_tildecomb",
 "aá/brevecomb/abreve/brevecomb_acutecomb/abreveacute/abrevedotbelow/brevecomb_gravecomb/abrevegrave/abrevehookabove/abrevetilde/acaron â/acircumflexacute/acircumflexdotbelow/acircumflexgrave/hookabovecomb/circumflexcomb_hookabovecomb/acircumflexhookabove/tildecomb/space/circumflexcomb/circumflexcomb_tildecomb/acircumflextilde/adblgrave ä/adotbelow/gravecomb à/ahookabove/ainvertedbreve/amacron/aogonek/ringcomb å/ringcomb_acutecomb/aringacute ã",
@@ -10,7 +10,8 @@ DisplayStrings = (
 "HH/Placeholder HO/Placeholder OOFAF/space GAG\012A/Placeholder A/space B/Placeholder B/space C/Placeholder C/space D/Placeholder D/space E/Placeholder E/space F/Placeholder F/space G/Placeholder G/space H/Placeholder H/space I/Placeholder I/space/space J/Placeholder J/space K/Placeholder K/space L/Placeholder L/space M/Placeholder M/space N/Placeholder N/space O/Placeholder O/space P/Placeholder P/space Q/Placeholder Q/space R/Placeholder R/space S/Placeholder S/space T/Placeholder T/space U/Placeholder U/space V/Placeholder V/space W/Placeholder W/space X/Placeholder X/space Y/Placeholder Y/space Z/Placeholder Z/space HH/Placeholder HO/Placeholder OO\012\012ABCDEFGHIJKLMNOPQRSTUVWXYZ\012\012AWARD/space AVATAR/space YOU/space AFAIK/space ALL/space TALL/space TOMATO/space PAIN/space AUricaSTRAL/space OVOIDE/space OXO/space OYO/space FOLD/space AVANZAR/space ALTAR/space LYON/space ARVO/space RYAN/space MY/space ALVARO/space AMAYA/space \012\012Square/space Peg/space Peto/space Fósforo/space Pato/space Pito/space Feo/space Tuvo/space TieneTara/space Termo/space Tomate/space Yuno/space Yin/space Yale/space You/space Yeyo/space Fio/space Falaz/space Wonder/space Volcan/space Wals/space Well/space/space Winston/space Wulc/space/space Viene/space Variar/space Velocidad/space Kellogs/space Kunst/space Kale/space/space/nbspace Nowregian/space HHOHOOHH\012V/Acircumflexdotbelow Y/space CH/Adotbelow Y/space/Dcroat/Uhornacute T/space/Ohornacute T/space TH/Uhorn/Ohorn NG/space T/Acircumflexacute Y/space/space Oraculo/space Omicron/space Ontario/space Owa/space Ovo",
 "a/Placeholder b/Placeholder c/Placeholder d/Placeholder e/Placeholder f/Placeholder g/Placeholder h/Placeholder i/Placeholder j/Placeholder k/Placeholder l/Placeholder m/Placeholder n/Placeholder o/Placeholder p/Placeholder q/Placeholder r/Placeholder s/Placeholder t/Placeholder u/Placeholder v/Placeholder w/Placeholder x/Placeholder y/Placeholder z/Placeholder \012nn/Placeholder no/Placeholder oo/space HH/Placeholder HO/Placeholder OO\012onmw.,:;/ellipsis !¡?¿nn?·/bullet *#///backslash/space/periodcentered.loclCAT.case/periodcentered.loclCAT (){}[]-­/endash/emdash/hyphentwo _\012o/quotesinglbase/quotedblbase n/quotedblleft/quotedblright/quoteleft/quoteright «»/guilsinglleft/guilsinglright \"'/leftanglebracket-math/rightanglebracket-math f@",
 "PPPePéP/ebreve P/ecaron PêP/ecircumflexacute P/ecircumflexdotbelow P/ecircumflexgrave P/ecircumflexhookabove P/ecircumflextilde P/edblgrave PëP/edotaccent P/edotbelow PèP/ehookabove P/einvertedbreve P/emacron P/eogonek P/etilde P/schwa P\012ePeeeée/ebreve e/ecaron eêe/ecircumflexacute e/ecircumflexdotbelow e/ecircumflexgrave e/ecircumflexhookabove e/ecircumflextilde e/edblgrave eëe/edotaccent e/edotbelow eèe/ehookabove e/einvertedbreve e/emacron e/eogonek e/etilde e/schwa e\012éPéeééé/ebreve é/ecaron éêé/ecircumflexacute é/ecircumflexdotbelow é/ecircumflexgrave é/ecircumflexhookabove é/ecircumflextilde é/edblgrave éëé/edotaccent é/edotbelow éèé/ehookabove é/einvertedbreve é/emacron é/eogonek é/etilde é/schwa é\012/ebreve P/ebreve e/ebreve é/ebreve/ebreve/ebreve/ecaron/ebreve ê/ebreve/ecircumflexacute/ebreve/ecircumflexdotbelow/ebreve/ecircumflexgrave/ebreve/ecircumflexhookabove/ebreve/ecircumflextilde/ebreve/edblgrave/ebreve ë/ebreve/edotaccent/ebreve/edotbelow/ebreve è/ebreve/ehookabove/ebreve/einvertedbreve/ebreve/emacron/ebreve/eogonek/ebreve/etilde/ebreve/schwa/ebreve \012/ecaron P/ecaron e/ecaron é/ecaron/ebreve/ecaron/ecaron/ecaron ê/ecaron/ecircumflexacute/ecaron/ecircumflexdotbelow/ecaron/ecircumflexgrave/ecaron/ecircumflexhookabove/ecaron/ecircumflextilde/ecaron/edblgrave/ecaron ë/ecaron/edotaccent/ecaron/edotbelow/ecaron è/ecaron/ehookabove/ecaron/einvertedbreve/ecaron/emacron/ecaron/eogonek/ecaron/etilde/ecaron/schwa/ecaron \012êPêeêéê/ebreve ê/ecaron êêê/ecircumflexacute ê/ecircumflexdotbelow ê/ecircumflexgrave ê/ecircumflexhookabove ê/ecircumflextilde ê/edblgrave êëê/edotaccent ê/edotbelow êèê/ehookabove ê/einvertedbreve ê/emacron ê/eogonek ê/etilde ê/schwa ê\012/ecircumflexacute P/ecircumflexacute e/ecircumflexacute é/ecircumflexacute/ebreve/ecircumflexacute/ecaron/ecircumflexacute ê/ecircumflexacute/ecircumflexacute/ecircumflexacute/ecircumflexdotbelow/ecircumflexacute/ecircumflexgrave/ecircumflexacute/ecircumflexhookabove/ecircumflexacute/ecircumflextilde/ecircumflexacute/edblgrave/ecircumflexacute ë/ecircumflexacute/edotaccent/ecircumflexacute/edotbelow/ecircumflexacute è/ecircumflexacute/ehookabove/ecircumflexacute/einvertedbreve/ecircumflexacute/emacron/ecircumflexacute/eogonek/ecircumflexacute/etilde/ecircumflexacute/schwa/ecircumflexacute \012/ecircumflexdotbelow P/ecircumflexdotbelow e/ecircumflexdotbelow é/ecircumflexdotbelow/ebreve/ecircumflexdotbelow/ecaron/ecircumflexdotbelow ê/ecircumflexdotbelow/ecircumflexacute/ecircumflexdotbelow/ecircumflexdotbelow/ecircumflexdotbelow/ecircumflexgrave/ecircumflexdotbelow/ecircumflexhookabove/ecircumflexdotbelow/ecircumflextilde/ecircumflexdotbelow/edblgrave/ecircumflexdotbelow ë/ecircumflexdotbelow/edotaccent/ecircumflexdotbelow/edotbelow/ecircumflexdotbelow è/ecircumflexdotbelow/ehookabove/ecircumflexdotbelow/einvertedbreve/ecircumflexdotbelow/emacron/ecircumflexdotbelow/eogonek/ecircumflexdotbelow/etilde/ecircumflexdotbelow/schwa/ecircumflexdotbelow \012/ecircumflexgrave P/ecircumflexgrave e/ecircumflexgrave é/ecircumflexgrave/ebreve/ecircumflexgrave/ecaron/ecircumflexgrave ê/ecircumflexgrave/ecircumflexacute/ecircumflexgrave/ecircumflexdotbelow/ecircumflexgrave/ecircumflexgrave/ecircumflexgrave/ecircumflexhookabove/ecircumflexgrave/ecircumflextilde/ecircumflexgrave/edblgrave/ecircumflexgrave ë/ecircumflexgrave/edotaccent/ecircumflexgrave/edotbelow/ecircumflexgrave è/ecircumflexgrave/ehookabove/ecircumflexgrave/einvertedbreve/ecircumflexgrave/emacron/ecircumflexgrave/eogonek/ecircumflexgrave/etilde/ecircumflexgrave/schwa/ecircumflexgrave \012/ecircumflexhookabove P/ecircumflexhookabove e/ecircumflexhookabove é/ecircumflexhookabove/ebreve/ecircumflexhookabove/ecaron/ecircumflexhookabove ê/ecircumflexhookabove/ecircumflexacute/ecircumflexhookabove/ecircumflexdotbelow/ecircumflexhookabove/ecircumflexgrave/ecircumflexhookabove/ecircumflexhookabove/ecircumflexhookabove/ecircumflextilde/ecircumflexhookabove/edblgrave/ecircumflexhookabove ë/ecircumflexhookabove/edotaccent/ecircumflexhookabove/edotbelow/ecircumflexhookabove è/ecircumflexhookabove/ehookabove/ecircumflexhookabove/einvertedbreve/ecircumflexhookabove/emacron/ecircumflexhookabove/eogonek/ecircumflexhookabove/etilde/ecircumflexhookabove/schwa/ecircumflexhookabove \012/ecircumflextilde P/ecircumflextilde e/ecircumflextilde é/ecircumflextilde/ebreve/ecircumflextilde/ecaron/ecircumflextilde ê/ecircumflextilde/ecircumflexacute/ecircumflextilde/ecircumflexdotbelow/ecircumflextilde/ecircumflexgrave/ecircumflextilde/ecircumflexhookabove/ecircumflextilde/ecircumflextilde/ecircumflextilde/edblgrave/ecircumflextilde ë/ecircumflextilde/edotaccent/ecircumflextilde/edotbelow/ecircumflextilde è/ecircumflextilde/ehookabove/ecircumflextilde/einvertedbreve/ecircumflextilde/emacron/ecircumflextilde/eogonek/ecircumflextilde/etilde/ecircumflextilde/schwa/ecircumflextilde \012/edblgrave P/edblgrave e/edblgrave é/edblgrave/ebreve/edblgrave/ecaron/edblgrave ê/edblgrave/ecircumflexacute/edblgrave/ecircumflexdotbelow/edblgrave/ecircumflexgrave/edblgrave/ecircumflexhookabove/edblgrave/ecircumflextilde/edblgrave/edblgrave/edblgrave ë/edblgrave/edotaccent/edblgrave/edotbelow/edblgrave è/edblgrave/ehookabove/edblgrave/einvertedbreve/edblgrave/emacron/edblgrave/eogonek/edblgrave/etilde/edblgrave/schwa/edblgrave \012ëPëeëéë/ebreve ë/ecaron ëêë/ecircumflexacute ë/ecircumflexdotbelow ë/ecircumflexgrave ë/ecircumflexhookabove ë/ecircumflextilde ë/edblgrave ëëë/edotaccent ë/edotbelow ëèë/ehookabove ë/einvertedbreve ë/emacron ë/eogonek ë/etilde ë/schwa ë\012/edotaccent Pe/edotaccent e/edotaccent é/edotaccent/ebreve/edotaccent/ecaron/edotaccent ê/edotaccent/ecircumflexacute/edotaccent/ecircumflexdotbelow/edotaccent/ecircumflexgrave/edotaccent/ecircumflexhookabove/edotaccent/ecircumflextilde/edotaccent/edblgrave/edotaccent ë/edotaccent/edotaccent/edotaccent/edotbelow/edotaccent è/edotaccent/ehookabove/edotaccent/einvertedbreve/edotaccent/emacron/edotaccent/eogonek/edotaccent/etilde/edotaccent/schwa/edotaccent \012/edotbelow P/edotbelow e/edotbelow é/edotbelow/ebreve/edotbelow/ecaron/edotbelow ê/edotbelow/ecircumflexacute/edotbelow/ecircumflexdotbelow/edotbelow/ecircumflexgrave/edotbelow/ecircumflexhookabove/edotbelow/ecircumflextilde/edotbelow/edblgrave/edotbelow ë/edotbelow/edotaccent/edotbelow/edotbelow/edotbelow è/edotbelow/ehookabove/edotbelow/einvertedbreve/edotbelow/emacron/edotbelow/eogonek/edotbelow/etilde/edotbelow/schwa/edotbelow \012èPèeèéè/ebreve è/ecaron èêè/ecircumflexacute è/ecircumflexdotbelow è/ecircumflexgrave è/ecircumflexhookabove è/ecircumflextilde è/edblgrave èëè/edotaccent è/edotbelow èèè/ehookabove è/einvertedbreve è/emacron è/eogonek è/etilde è/schwa è\012/ehookabove P/ehookabove e/ehookabove é/ehookabove/ebreve/ehookabove/ecaron/ehookabove ê/ehookabove/ecircumflexacute/ehookabove/ecircumflexdotbelow/ehookabove/ecircumflexgrave/ehookabove/ecircumflexhookabove/ehookabove/ecircumflextilde/ehookabove/edblgrave/ehookabove ë/ehookabove/edotaccent/ehookabove/edotbelow/ehookabove è/ehookabove/ehookabove/ehookabove/einvertedbreve/ehookabove/emacron/ehookabove/eogonek/ehookabove/etilde/ehookabove/schwa/ehookabove \012/einvertedbreve P/einvertedbreve e/einvertedbreve é/einvertedbreve/ebreve/einvertedbreve/ecaron/einvertedbreve ê/einvertedbreve/ecircumflexacute/einvertedbreve/ecircumflexdotbelow/einvertedbreve/ecircumflexgrave/einvertedbreve/ecircumflexhookabove/einvertedbreve/ecircumflextilde/einvertedbreve/edblgrave/einvertedbreve ë/einvertedbreve/edotaccent/einvertedbreve/edotbelow/einvertedbreve è/einvertedbreve/ehookabove/einvertedbreve/einvertedbreve/einvertedbreve/emacron/einvertedbreve/eogonek/einvertedbreve/etilde/einvertedbreve/schwa/einvertedbreve \012/emacron P/emacron e/emacron é/emacron/ebreve/emacron/ecaron/emacron ê/emacron/ecircumflexacute/emacron/ecircumflexdotbelow/emacron/ecircumflexgrave/emacron/ecircumflexhookabove/emacron/ecircumflextilde/emacron/edblgrave/emacron ë/emacron/edotaccent/emacron/edotbelow/emacron è/emacron/ehookabove/emacron/einvertedbreve/emacron/emacron/emacron/eogonek/emacron/etilde/emacron/schwa/emacron \012/eogonek P/eogonek e/eogonek é/eogonek/ebreve/eogonek/ecaron/eogonek ê/eogonek/ecircumflexacute/eogonek/ecircumflexdotbelow/eogonek/ecircumflexgrave/eogonek/ecircumflexhookabove/eogonek/ecircumflextilde/eogonek/edblgrave/eogonek ë/eogonek/edotaccent/eogonek/edotbelow/eogonek è/eogonek/ehookabove/eogonek/einvertedbreve/eogonek/emacron/eogonek/eogonek/eogonek/etilde/eogonek/schwa/eogonek \012/etilde P/etilde e/etilde é/etilde/ebreve/etilde/ecaron/etilde ê/etilde/ecircumflexacute/etilde/ecircumflexdotbelow/etilde/ecircumflexgrave/etilde/ecircumflexhookabove/etilde/ecircumflextilde/etilde/edblgrave/etilde ë/etilde/edotaccent/etilde/edotbelow/etilde è/etilde/ehookabove/etilde/einvertedbreve/etilde/emacron/etilde/eogonek/etilde/etilde/etilde/schwa/etilde \012/schwa P/schwa e/schwa é/schwa/ebreve/schwa/ecaron/schwa ê/schwa/ecircumflexacute/schwa/ecircumflexdotbelow/schwa/ecircumflexgrave/schwa/ecircumflexhookabove/schwa/ecircumflextilde/schwa/edblgrave/schwa ë/schwa/edotaccent/schwa/edotbelow/schwa è/schwa/ehookabove/schwa/einvertedbreve/schwa/emacron/schwa/eogonek/schwa/etilde/schwa/schwa/schwa \012",
-"TTTaTáT/abreve T/abreveacute T/abrevedotbelow T/abrevegrave T/abrevehookabove T/abrevetilde T/acaron TâT/acircumflexacute T/acircumflexdotbelow T/acircumflexgrave T/acircumflexhookabove T/acircumflextilde T/adblgrave TäT/adotbelow TàT/ahookabove T/ainvertedbreve T/amacron T/aogonek TåT/aringacute TãT\012aTaaaáa/abreve a/abreveacute a/abrevedotbelow a/abrevegrave a/abrevehookabove a/abrevetilde a/acaron aâa/acircumflexacute a/acircumflexdotbelow a/acircumflexgrave a/acircumflexhookabove a/acircumflextilde a/adblgrave aäa/adotbelow aàa/ahookabove a/ainvertedbreve a/amacron a/aogonek aåa/aringacute aãa\012áTáaááá/abreve á/abreveacute á/abrevedotbelow á/abrevegrave á/abrevehookabove á/abrevetilde á/acaron áâá/acircumflexacute á/acircumflexdotbelow á/acircumflexgrave á/acircumflexhookabove á/acircumflextilde á/adblgrave áäá/adotbelow áàá/ahookabove á/ainvertedbreve á/amacron á/aogonek áåá/aringacute áãá\012/abreve T/abreve a/abreve á/abreve/abreve/abreve/abreveacute/abreve/abrevedotbelow/abreve/abrevegrave/abreve/abrevehookabove/abreve/abrevetilde/abreve/acaron/abreve â/abreve/acircumflexacute/abreve/acircumflexdotbelow/abreve/acircumflexgrave/abreve/acircumflexhookabove/abreve/acircumflextilde/abreve/adblgrave/abreve ä/abreve/adotbelow/abreve à/abreve/ahookabove/abreve/ainvertedbreve/abreve/amacron/abreve/aogonek/abreve å/abreve/aringacute/abreve ã/abreve \012/abreveacute T/abreveacute a/abreveacute á/abreveacute/abreve/abreveacute/abreveacute/abreveacute/abrevedotbelow/abreveacute/abrevegrave/abreveacute/abrevehookabove/abreveacute/abrevetilde/abreveacute/acaron/abreveacute â/abreveacute/acircumflexacute/abreveacute/acircumflexdotbelow/abreveacute/acircumflexgrave/abreveacute/acircumflexhookabove/abreveacute/acircumflextilde/abreveacute/adblgrave/abreveacute ä/abreveacute/adotbelow/abreveacute à/abreveacute/ahookabove/abreveacute/ainvertedbreve/abreveacute/amacron/abreveacute/aogonek/abreveacute å/abreveacute/aringacute/abreveacute ã/abreveacute \012/abrevedotbelow T/abrevedotbelow a/abrevedotbelow á/abrevedotbelow/abreve/abrevedotbelow/abreveacute/abrevedotbelow/abrevedotbelow/abrevedotbelow/abrevegrave/abrevedotbelow/abrevehookabove/abrevedotbelow/abrevetilde/abrevedotbelow/acaron/abrevedotbelow â/abrevedotbelow/acircumflexacute/abrevedotbelow/acircumflexdotbelow/abrevedotbelow/acircumflexgrave/abrevedotbelow/acircumflexhookabove/abrevedotbelow/acircumflextilde/abrevedotbelow/adblgrave/abrevedotbelow ä/abrevedotbelow/adotbelow/abrevedotbelow à/abrevedotbelow/ahookabove/abrevedotbelow/ainvertedbreve/abrevedotbelow/amacron/abrevedotbelow/aogonek/abrevedotbelow å/abrevedotbelow/aringacute/abrevedotbelow ã/abrevedotbelow \012/abrevegrave T/abrevegrave a/abrevegrave á/abrevegrave/abreve/abrevegrave/abreveacute/abrevegrave/abrevedotbelow/abrevegrave/abrevegrave/abrevegrave/abrevehookabove/abrevegrave/abrevetilde/abrevegrave/acaron/abrevegrave â/abrevegrave/acircumflexacute/abrevegrave/acircumflexdotbelow/abrevegrave/acircumflexgrave/abrevegrave/acircumflexhookabove/abrevegrave/acircumflextilde/abrevegrave/adblgrave/abrevegrave ä/abrevegrave/adotbelow/abrevegrave à/abrevegrave/ahookabove/abrevegrave/ainvertedbreve/abrevegrave/amacron/abrevegrave/aogonek/abrevegrave å/abrevegrave/aringacute/abrevegrave ã/abrevegrave \012/abrevehookabove T/abrevehookabove a/abrevehookabove á/abrevehookabove/abreve/abrevehookabove/abreveacute/abrevehookabove/abrevedotbelow/abrevehookabove/abrevegrave/abrevehookabove/abrevehookabove/abrevehookabove/abrevetilde/abrevehookabove/acaron/abrevehookabove â/abrevehookabove/acircumflexacute/abrevehookabove/acircumflexdotbelow/abrevehookabove/acircumflexgrave/abrevehookabove/acircumflexhookabove/abrevehookabove/acircumflextilde/abrevehookabove/adblgrave/abrevehookabove ä/abrevehookabove/adotbelow/abrevehookabove à/abrevehookabove/ahookabove/abrevehookabove/ainvertedbreve/abrevehookabove/amacron/abrevehookabove/aogonek/abrevehookabove å/abrevehookabove/aringacute/abrevehookabove ã/abrevehookabove \012/abrevetilde T/abrevetilde a/abrevetilde á/abrevetilde/abreve/abrevetilde/abreveacute/abrevetilde/abrevedotbelow/abrevetilde/abrevegrave/abrevetilde/abrevehookabove/abrevetilde/abrevetilde/abrevetilde/acaron/abrevetilde â/abrevetilde/acircumflexacute/abrevetilde/acircumflexdotbelow/abrevetilde/acircumflexgrave/abrevetilde/acircumflexhookabove/abrevetilde/acircumflextilde/abrevetilde/adblgrave/abrevetilde ä/abrevetilde/adotbelow/abrevetilde à/abrevetilde/ahookabove/abrevetilde/ainvertedbreve/abrevetilde/amacron/abrevetilde/aogonek/abrevetilde å/abrevetilde/aringacute/abrevetilde ã/abrevetilde \012/acaron T/acaron a/acaron á/acaron/abreve/acaron/abreveacute/acaron/abrevedotbelow/acaron/abrevegrave/acaron/abrevehookabove/acaron/abrevetilde/acaron/acaron/acaron â/acaron/acircumflexacute/acaron/acircumflexdotbelow/acaron/acircumflexgrave/acaron/acircumflexhookabove/acaron/acircumflextilde/acaron/adblgrave/acaron ä/acaron/adotbelow/acaron à/acaron/ahookabove/acaron/ainvertedbreve/acaron/amacron/acaron/aogonek/acaron å/acaron/aringacute/acaron ã/acaron \012âTâaâáâ/abreve â/abreveacute â/abrevedotbelow â/abrevegrave â/abrevehookabove â/abrevetilde â/acaron âââ/acircumflexacute â/acircumflexdotbelow â/acircumflexgrave â/acircumflexhookabove â/acircumflextilde â/adblgrave âäâ/adotbelow âàâ/ahookabove â/ainvertedbreve â/amacron â/aogonek âåâ/aringacute âãâ\012/acircumflexacute T/acircumflexacute a/acircumflexacute á/acircumflexacute/abreve/acircumflexacute/abreveacute/acircumflexacute/abrevedotbelow/acircumflexacute/abrevegrave/acircumflexacute/abrevehookabove/acircumflexacute/abrevetilde/acircumflexacute/acaron/acircumflexacute â/acircumflexacute/acircumflexacute/acircumflexacute/acircumflexdotbelow/acircumflexacute/acircumflexgrave/acircumflexacute/acircumflexhookabove/acircumflexacute/acircumflextilde/acircumflexacute/adblgrave/acircumflexacute ä/acircumflexacute/adotbelow/acircumflexacute à/acircumflexacute/ahookabove/acircumflexacute/ainvertedbreve/acircumflexacute/amacron/acircumflexacute/aogonek/acircumflexacute å/acircumflexacute/aringacute/acircumflexacute ã/acircumflexacute \012/acircumflexdotbelow T/acircumflexdotbelow a/acircumflexdotbelow á/acircumflexdotbelow/abreve/acircumflexdotbelow/abreveacute/acircumflexdotbelow/abrevedotbelow/acircumflexdotbelow/abrevegrave/acircumflexdotbelow/abrevehookabove/acircumflexdotbelow/abrevetilde/acircumflexdotbelow/acaron/acircumflexdotbelow â/acircumflexdotbelow/acircumflexacute/acircumflexdotbelow/acircumflexdotbelow/acircumflexdotbelow/acircumflexgrave/acircumflexdotbelow/acircumflexhookabove/acircumflexdotbelow/acircumflextilde/acircumflexdotbelow/adblgrave/acircumflexdotbelow ä/acircumflexdotbelow/adotbelow/acircumflexdotbelow à/acircumflexdotbelow/ahookabove/acircumflexdotbelow/ainvertedbreve/acircumflexdotbelow/amacron/acircumflexdotbelow/aogonek/acircumflexdotbelow å/acircumflexdotbelow/aringacute/acircumflexdotbelow ã/acircumflexdotbelow \012/acircumflexgrave T/acircumflexgrave a/acircumflexgrave á/acircumflexgrave/abreve/acircumflexgrave/abreveacute/acircumflexgrave/abrevedotbelow/acircumflexgrave/abrevegrave/acircumflexgrave/abrevehookabove/acircumflexgrave/abrevetilde/acircumflexgrave/acaron/acircumflexgrave â/acircumflexgrave/acircumflexacute/acircumflexgrave/acircumflexdotbelow/acircumflexgrave/acircumflexgrave/acircumflexgrave/acircumflexhookabove/acircumflexgrave/acircumflextilde/acircumflexgrave/adblgrave/acircumflexgrave ä/acircumflexgrave/adotbelow/acircumflexgrave à/acircumflexgrave/ahookabove/acircumflexgrave/ainvertedbreve/acircumflexgrave/amacron/acircumflexgrave/aogonek/acircumflexgrave å/acircumflexgrave/aringacute/acircumflexgrave ã/acircumflexgrave \012/acircumflexhookabove T/acircumflexhookabove a/acircumflexhookabove á/acircumflexhookabove/abreve/acircumflexhookabove/abreveacute/acircumflexhookabove/abrevedotbelow/acircumflexhookabove/abrevegrave/acircumflexhookabove/abrevehookabove/acircumflexhookabove/abrevetilde/acircumflexhookabove/acaron/acircumflexhookabove â/acircumflexhookabove/acircumflexacute/acircumflexhookabove/acircumflexdotbelow/acircumflexhookabove/acircumflexgrave/acircumflexhookabove/acircumflexhookabove/acircumflexhookabove/acircumflextilde/acircumflexhookabove/adblgrave/acircumflexhookabove ä/acircumflexhookabove/adotbelow/acircumflexhookabove à/acircumflexhookabove/ahookabove/acircumflexhookabove/ainvertedbreve/acircumflexhookabove/amacron/acircumflexhookabove/aogonek/acircumflexhookabove å/acircumflexhookabove/aringacute/acircumflexhookabove ã/acircumflexhookabove \012/acircumflextilde T/acircumflextilde a/acircumflextilde á/acircumflextilde/abreve/acircumflextilde/abreveacute/acircumflextilde/abrevedotbelow/acircumflextilde/abrevegrave/acircumflextilde/abrevehookabove/acircumflextilde/abrevetilde/acircumflextilde/acaron/acircumflextilde â/acircumflextilde/acircumflexacute/acircumflextilde/acircumflexdotbelow/acircumflextilde/acircumflexgrave/acircumflextilde/acircumflexhookabove/acircumflextilde/acircumflextilde/acircumflextilde/adblgrave/acircumflextilde ä/acircumflextilde/adotbelow/acircumflextilde à/acircumflextilde/ahookabove/acircumflextilde/ainvertedbreve/acircumflextilde/amacron/acircumflextilde/aogonek/acircumflextilde å/acircumflextilde/aringacute/acircumflextilde ã/acircumflextilde \012/adblgrave T/adblgrave a/adblgrave á/adblgrave/abreve/adblgrave/abreveacute/adblgrave/abrevedotbelow/adblgrave/abrevegrave/adblgrave/abrevehookabove/adblgrave/abrevetilde/adblgrave/acaron/adblgrave â/adblgrave/acircumflexacute/adblgrave/acircumflexdotbelow/adblgrave/acircumflexgrave/adblgrave/acircumflexhookabove/adblgrave/acircumflextilde/adblgrave/adblgrave/adblgrave ä/adblgrave/adotbelow/adblgrave à/adblgrave/ahookabove/adblgrave/ainvertedbreve/adblgrave/amacron/adblgrave/aogonek/adblgrave å/adblgrave/aringacute/adblgrave ã/adblgrave \012äTäaäáä/abreve ä/abreveacute ä/abrevedotbelow ä/abrevegrave ä/abrevehookabove ä/abrevetilde ä/acaron äâä/acircumflexacute ä/acircumflexdotbelow ä/acircumflexgrave ä/acircumflexhookabove ä/acircumflextilde ä/adblgrave äää/adotbelow äàä/ahookabove ä/ainvertedbreve ä/amacron ä/aogonek äåä/aringacute äãä\012/adotbelow T/adotbelow a/adotbelow á/adotbelow/abreve/adotbelow/abreveacute/adotbelow/abrevedotbelow/adotbelow/abrevegrave/adotbelow/abrevehookabove/adotbelow/abrevetilde/adotbelow/acaron/adotbelow â/adotbelow/acircumflexacute/adotbelow/acircumflexdotbelow/adotbelow/acircumflexgrave/adotbelow/acircumflexhookabove/adotbelow/acircumflextilde/adotbelow/adblgrave/adotbelow ä/adotbelow/adotbelow/adotbelow à/adotbelow/ahookabove/adotbelow/ainvertedbreve/adotbelow/amacron/adotbelow/aogonek/adotbelow å/adotbelow/aringacute/adotbelow ã/adotbelow \012àTàaàáà/abreve à/abreveacute à/abrevedotbelow à/abrevegrave à/abrevehookabove à/abrevetilde à/acaron àâà/acircumflexacute à/acircumflexdotbelow à/acircumflexgrave à/acircumflexhookabove à/acircumflextilde à/adblgrave àäà/adotbelow ààà/ahookabove à/ainvertedbreve à/amacron à/aogonek àåà/aringacute àãà\012/ahookabove T/ahookabove a/ahookabove á/ahookabove/abreve/ahookabove/abreveacute/ahookabove/abrevedotbelow/ahookabove/abrevegrave/ahookabove/abrevehookabove/ahookabove/abrevetilde/ahookabove/acaron/ahookabove â/ahookabove/acircumflexacute/ahookabove/acircumflexdotbelow/ahookabove/acircumflexgrave/ahookabove/acircumflexhookabove/ahookabove/acircumflextilde/ahookabove/adblgrave/ahookabove ä/ahookabove/adotbelow/ahookabove à/ahookabove/ahookabove/ahookabove/ainvertedbreve/ahookabove/amacron/ahookabove/aogonek/ahookabove å/ahookabove/aringacute/ahookabove ã/ahookabove \012/ainvertedbreve T/ainvertedbreve a/ainvertedbreve á/ainvertedbreve/abreve/ainvertedbreve/abreveacute/ainvertedbreve/abrevedotbelow/ainvertedbreve/abrevegrave/ainvertedbreve/abrevehookabove/ainvertedbreve/abrevetilde/ainvertedbreve/acaron/ainvertedbreve â/ainvertedbreve/acircumflexacute/ainvertedbreve/acircumflexdotbelow/ainvertedbreve/acircumflexgrave/ainvertedbreve/acircumflexhookabove/ainvertedbreve/acircumflextilde/ainvertedbreve/adblgrave/ainvertedbreve ä/ainvertedbreve/adotbelow/ainvertedbreve à/ainvertedbreve/ahookabove/ainvertedbreve/ainvertedbreve/ainvertedbreve/amacron/ainvertedbreve/aogonek/ainvertedbreve å/ainvertedbreve/aringacute/ainvertedbreve ã/ainvertedbreve \012/amacron T/amacron a/amacron á/amacron/abreve/amacron/abreveacute/amacron/abrevedotbelow/amacron/abrevegrave/amacron/abrevehookabove/amacron/abrevetilde/amacron/acaron/amacron â/amacron/acircumflexacute/amacron/acircumflexdotbelow/amacron/acircumflexgrave/amacron/acircumflexhookabove/amacron/acircumflextilde/amacron/adblgrave/amacron ä/amacron/adotbelow/amacron à/amacron/ahookabove/amacron/ainvertedbreve/amacron/amacron/amacron/aogonek/amacron å/amacron/aringacute/amacron ã/amacron \012/aogonek T/aogonek a/aogonek á/aogonek/abreve/aogonek/abreveacute/aogonek/abrevedotbelow/aogonek/abrevegrave/aogonek/abrevehookabove/aogonek/abrevetilde/aogonek/acaron/aogonek â/aogonek/acircumflexacute/aogonek/acircumflexdotbelow/aogonek/acircumflexgrave/aogonek/acircumflexhookabove/aogonek/acircumflextilde/aogonek/adblgrave/aogonek ä/aogonek/adotbelow/aogonek à/aogonek/ahookabove/aogonek/ainvertedbreve/aogonek/amacron/aogonek/aogonek/aogonek å/aogonek/aringacute/aogonek ã/aogonek \012åTåaåáå/abreve å/abreveacute å/abrevedotbelow å/abrevegrave å/abrevehookabove å/abrevetilde å/acaron åâå/acircumflexacute å/acircumflexdotbelow å/acircumflexgrave å/acircumflexhookabove å/acircumflextilde å/adblgrave åäå/adotbelow åàå/ahookabove å/ainvertedbreve å/amacron å/aogonek ååå/aringacute åãå\012/aringacute T/aringacute a/aringacute á/aringacute/abreve/aringacute/abreveacute/aringacute/abrevedotbelow/aringacute/abrevegrave/aringacute/abrevehookabove/aringacute/abrevetilde/aringacute/acaron/aringacute â/aringacute/acircumflexacute/aringacute/acircumflexdotbelow/aringacute/acircumflexgrave/aringacute/acircumflexhookabove/aringacute/acircumflextilde/aringacute/adblgrave/aringacute ä/aringacute/adotbelow/aringacute à/aringacute/ahookabove/aringacute/ainvertedbreve/aringacute/amacron/aringacute/aogonek/aringacute å/aringacute/aringacute/aringacute ã/aringacute \012ãTãaãáã/abreve ã/abreveacute ã/abrevedotbelow ã/abrevegrave ã/abrevehookabove ã/abrevetilde ã/acaron ãâã/acircumflexacute ã/acircumflexdotbelow ã/acircumflexgrave ã/acircumflexhookabove ã/acircumflextilde ã/adblgrave ãäã/adotbelow ãàã/ahookabove ã/ainvertedbreve ã/amacron ã/aogonek ãåã/aringacute ããã\012"
+"TTTaTáT/abreve T/abreveacute T/abrevedotbelow T/abrevegrave T/abrevehookabove T/abrevetilde T/acaron TâT/acircumflexacute T/acircumflexdotbelow T/acircumflexgrave T/acircumflexhookabove T/acircumflextilde T/adblgrave TäT/adotbelow TàT/ahookabove T/ainvertedbreve T/amacron T/aogonek TåT/aringacute TãT\012aTaaaáa/abreve a/abreveacute a/abrevedotbelow a/abrevegrave a/abrevehookabove a/abrevetilde a/acaron aâa/acircumflexacute a/acircumflexdotbelow a/acircumflexgrave a/acircumflexhookabove a/acircumflextilde a/adblgrave aäa/adotbelow aàa/ahookabove a/ainvertedbreve a/amacron a/aogonek aåa/aringacute aãa\012áTáaááá/abreve á/abreveacute á/abrevedotbelow á/abrevegrave á/abrevehookabove á/abrevetilde á/acaron áâá/acircumflexacute á/acircumflexdotbelow á/acircumflexgrave á/acircumflexhookabove á/acircumflextilde á/adblgrave áäá/adotbelow áàá/ahookabove á/ainvertedbreve á/amacron á/aogonek áåá/aringacute áãá\012/abreve T/abreve a/abreve á/abreve/abreve/abreve/abreveacute/abreve/abrevedotbelow/abreve/abrevegrave/abreve/abrevehookabove/abreve/abrevetilde/abreve/acaron/abreve â/abreve/acircumflexacute/abreve/acircumflexdotbelow/abreve/acircumflexgrave/abreve/acircumflexhookabove/abreve/acircumflextilde/abreve/adblgrave/abreve ä/abreve/adotbelow/abreve à/abreve/ahookabove/abreve/ainvertedbreve/abreve/amacron/abreve/aogonek/abreve å/abreve/aringacute/abreve ã/abreve \012/abreveacute T/abreveacute a/abreveacute á/abreveacute/abreve/abreveacute/abreveacute/abreveacute/abrevedotbelow/abreveacute/abrevegrave/abreveacute/abrevehookabove/abreveacute/abrevetilde/abreveacute/acaron/abreveacute â/abreveacute/acircumflexacute/abreveacute/acircumflexdotbelow/abreveacute/acircumflexgrave/abreveacute/acircumflexhookabove/abreveacute/acircumflextilde/abreveacute/adblgrave/abreveacute ä/abreveacute/adotbelow/abreveacute à/abreveacute/ahookabove/abreveacute/ainvertedbreve/abreveacute/amacron/abreveacute/aogonek/abreveacute å/abreveacute/aringacute/abreveacute ã/abreveacute \012/abrevedotbelow T/abrevedotbelow a/abrevedotbelow á/abrevedotbelow/abreve/abrevedotbelow/abreveacute/abrevedotbelow/abrevedotbelow/abrevedotbelow/abrevegrave/abrevedotbelow/abrevehookabove/abrevedotbelow/abrevetilde/abrevedotbelow/acaron/abrevedotbelow â/abrevedotbelow/acircumflexacute/abrevedotbelow/acircumflexdotbelow/abrevedotbelow/acircumflexgrave/abrevedotbelow/acircumflexhookabove/abrevedotbelow/acircumflextilde/abrevedotbelow/adblgrave/abrevedotbelow ä/abrevedotbelow/adotbelow/abrevedotbelow à/abrevedotbelow/ahookabove/abrevedotbelow/ainvertedbreve/abrevedotbelow/amacron/abrevedotbelow/aogonek/abrevedotbelow å/abrevedotbelow/aringacute/abrevedotbelow ã/abrevedotbelow \012/abrevegrave T/abrevegrave a/abrevegrave á/abrevegrave/abreve/abrevegrave/abreveacute/abrevegrave/abrevedotbelow/abrevegrave/abrevegrave/abrevegrave/abrevehookabove/abrevegrave/abrevetilde/abrevegrave/acaron/abrevegrave â/abrevegrave/acircumflexacute/abrevegrave/acircumflexdotbelow/abrevegrave/acircumflexgrave/abrevegrave/acircumflexhookabove/abrevegrave/acircumflextilde/abrevegrave/adblgrave/abrevegrave ä/abrevegrave/adotbelow/abrevegrave à/abrevegrave/ahookabove/abrevegrave/ainvertedbreve/abrevegrave/amacron/abrevegrave/aogonek/abrevegrave å/abrevegrave/aringacute/abrevegrave ã/abrevegrave \012/abrevehookabove T/abrevehookabove a/abrevehookabove á/abrevehookabove/abreve/abrevehookabove/abreveacute/abrevehookabove/abrevedotbelow/abrevehookabove/abrevegrave/abrevehookabove/abrevehookabove/abrevehookabove/abrevetilde/abrevehookabove/acaron/abrevehookabove â/abrevehookabove/acircumflexacute/abrevehookabove/acircumflexdotbelow/abrevehookabove/acircumflexgrave/abrevehookabove/acircumflexhookabove/abrevehookabove/acircumflextilde/abrevehookabove/adblgrave/abrevehookabove ä/abrevehookabove/adotbelow/abrevehookabove à/abrevehookabove/ahookabove/abrevehookabove/ainvertedbreve/abrevehookabove/amacron/abrevehookabove/aogonek/abrevehookabove å/abrevehookabove/aringacute/abrevehookabove ã/abrevehookabove \012/abrevetilde T/abrevetilde a/abrevetilde á/abrevetilde/abreve/abrevetilde/abreveacute/abrevetilde/abrevedotbelow/abrevetilde/abrevegrave/abrevetilde/abrevehookabove/abrevetilde/abrevetilde/abrevetilde/acaron/abrevetilde â/abrevetilde/acircumflexacute/abrevetilde/acircumflexdotbelow/abrevetilde/acircumflexgrave/abrevetilde/acircumflexhookabove/abrevetilde/acircumflextilde/abrevetilde/adblgrave/abrevetilde ä/abrevetilde/adotbelow/abrevetilde à/abrevetilde/ahookabove/abrevetilde/ainvertedbreve/abrevetilde/amacron/abrevetilde/aogonek/abrevetilde å/abrevetilde/aringacute/abrevetilde ã/abrevetilde \012/acaron T/acaron a/acaron á/acaron/abreve/acaron/abreveacute/acaron/abrevedotbelow/acaron/abrevegrave/acaron/abrevehookabove/acaron/abrevetilde/acaron/acaron/acaron â/acaron/acircumflexacute/acaron/acircumflexdotbelow/acaron/acircumflexgrave/acaron/acircumflexhookabove/acaron/acircumflextilde/acaron/adblgrave/acaron ä/acaron/adotbelow/acaron à/acaron/ahookabove/acaron/ainvertedbreve/acaron/amacron/acaron/aogonek/acaron å/acaron/aringacute/acaron ã/acaron \012âTâaâáâ/abreve â/abreveacute â/abrevedotbelow â/abrevegrave â/abrevehookabove â/abrevetilde â/acaron âââ/acircumflexacute â/acircumflexdotbelow â/acircumflexgrave â/acircumflexhookabove â/acircumflextilde â/adblgrave âäâ/adotbelow âàâ/ahookabove â/ainvertedbreve â/amacron â/aogonek âåâ/aringacute âãâ\012/acircumflexacute T/acircumflexacute a/acircumflexacute á/acircumflexacute/abreve/acircumflexacute/abreveacute/acircumflexacute/abrevedotbelow/acircumflexacute/abrevegrave/acircumflexacute/abrevehookabove/acircumflexacute/abrevetilde/acircumflexacute/acaron/acircumflexacute â/acircumflexacute/acircumflexacute/acircumflexacute/acircumflexdotbelow/acircumflexacute/acircumflexgrave/acircumflexacute/acircumflexhookabove/acircumflexacute/acircumflextilde/acircumflexacute/adblgrave/acircumflexacute ä/acircumflexacute/adotbelow/acircumflexacute à/acircumflexacute/ahookabove/acircumflexacute/ainvertedbreve/acircumflexacute/amacron/acircumflexacute/aogonek/acircumflexacute å/acircumflexacute/aringacute/acircumflexacute ã/acircumflexacute \012/acircumflexdotbelow T/acircumflexdotbelow a/acircumflexdotbelow á/acircumflexdotbelow/abreve/acircumflexdotbelow/abreveacute/acircumflexdotbelow/abrevedotbelow/acircumflexdotbelow/abrevegrave/acircumflexdotbelow/abrevehookabove/acircumflexdotbelow/abrevetilde/acircumflexdotbelow/acaron/acircumflexdotbelow â/acircumflexdotbelow/acircumflexacute/acircumflexdotbelow/acircumflexdotbelow/acircumflexdotbelow/acircumflexgrave/acircumflexdotbelow/acircumflexhookabove/acircumflexdotbelow/acircumflextilde/acircumflexdotbelow/adblgrave/acircumflexdotbelow ä/acircumflexdotbelow/adotbelow/acircumflexdotbelow à/acircumflexdotbelow/ahookabove/acircumflexdotbelow/ainvertedbreve/acircumflexdotbelow/amacron/acircumflexdotbelow/aogonek/acircumflexdotbelow å/acircumflexdotbelow/aringacute/acircumflexdotbelow ã/acircumflexdotbelow \012/acircumflexgrave T/acircumflexgrave a/acircumflexgrave á/acircumflexgrave/abreve/acircumflexgrave/abreveacute/acircumflexgrave/abrevedotbelow/acircumflexgrave/abrevegrave/acircumflexgrave/abrevehookabove/acircumflexgrave/abrevetilde/acircumflexgrave/acaron/acircumflexgrave â/acircumflexgrave/acircumflexacute/acircumflexgrave/acircumflexdotbelow/acircumflexgrave/acircumflexgrave/acircumflexgrave/acircumflexhookabove/acircumflexgrave/acircumflextilde/acircumflexgrave/adblgrave/acircumflexgrave ä/acircumflexgrave/adotbelow/acircumflexgrave à/acircumflexgrave/ahookabove/acircumflexgrave/ainvertedbreve/acircumflexgrave/amacron/acircumflexgrave/aogonek/acircumflexgrave å/acircumflexgrave/aringacute/acircumflexgrave ã/acircumflexgrave \012/acircumflexhookabove T/acircumflexhookabove a/acircumflexhookabove á/acircumflexhookabove/abreve/acircumflexhookabove/abreveacute/acircumflexhookabove/abrevedotbelow/acircumflexhookabove/abrevegrave/acircumflexhookabove/abrevehookabove/acircumflexhookabove/abrevetilde/acircumflexhookabove/acaron/acircumflexhookabove â/acircumflexhookabove/acircumflexacute/acircumflexhookabove/acircumflexdotbelow/acircumflexhookabove/acircumflexgrave/acircumflexhookabove/acircumflexhookabove/acircumflexhookabove/acircumflextilde/acircumflexhookabove/adblgrave/acircumflexhookabove ä/acircumflexhookabove/adotbelow/acircumflexhookabove à/acircumflexhookabove/ahookabove/acircumflexhookabove/ainvertedbreve/acircumflexhookabove/amacron/acircumflexhookabove/aogonek/acircumflexhookabove å/acircumflexhookabove/aringacute/acircumflexhookabove ã/acircumflexhookabove \012/acircumflextilde T/acircumflextilde a/acircumflextilde á/acircumflextilde/abreve/acircumflextilde/abreveacute/acircumflextilde/abrevedotbelow/acircumflextilde/abrevegrave/acircumflextilde/abrevehookabove/acircumflextilde/abrevetilde/acircumflextilde/acaron/acircumflextilde â/acircumflextilde/acircumflexacute/acircumflextilde/acircumflexdotbelow/acircumflextilde/acircumflexgrave/acircumflextilde/acircumflexhookabove/acircumflextilde/acircumflextilde/acircumflextilde/adblgrave/acircumflextilde ä/acircumflextilde/adotbelow/acircumflextilde à/acircumflextilde/ahookabove/acircumflextilde/ainvertedbreve/acircumflextilde/amacron/acircumflextilde/aogonek/acircumflextilde å/acircumflextilde/aringacute/acircumflextilde ã/acircumflextilde \012/adblgrave T/adblgrave a/adblgrave á/adblgrave/abreve/adblgrave/abreveacute/adblgrave/abrevedotbelow/adblgrave/abrevegrave/adblgrave/abrevehookabove/adblgrave/abrevetilde/adblgrave/acaron/adblgrave â/adblgrave/acircumflexacute/adblgrave/acircumflexdotbelow/adblgrave/acircumflexgrave/adblgrave/acircumflexhookabove/adblgrave/acircumflextilde/adblgrave/adblgrave/adblgrave ä/adblgrave/adotbelow/adblgrave à/adblgrave/ahookabove/adblgrave/ainvertedbreve/adblgrave/amacron/adblgrave/aogonek/adblgrave å/adblgrave/aringacute/adblgrave ã/adblgrave \012äTäaäáä/abreve ä/abreveacute ä/abrevedotbelow ä/abrevegrave ä/abrevehookabove ä/abrevetilde ä/acaron äâä/acircumflexacute ä/acircumflexdotbelow ä/acircumflexgrave ä/acircumflexhookabove ä/acircumflextilde ä/adblgrave äää/adotbelow äàä/ahookabove ä/ainvertedbreve ä/amacron ä/aogonek äåä/aringacute äãä\012/adotbelow T/adotbelow a/adotbelow á/adotbelow/abreve/adotbelow/abreveacute/adotbelow/abrevedotbelow/adotbelow/abrevegrave/adotbelow/abrevehookabove/adotbelow/abrevetilde/adotbelow/acaron/adotbelow â/adotbelow/acircumflexacute/adotbelow/acircumflexdotbelow/adotbelow/acircumflexgrave/adotbelow/acircumflexhookabove/adotbelow/acircumflextilde/adotbelow/adblgrave/adotbelow ä/adotbelow/adotbelow/adotbelow à/adotbelow/ahookabove/adotbelow/ainvertedbreve/adotbelow/amacron/adotbelow/aogonek/adotbelow å/adotbelow/aringacute/adotbelow ã/adotbelow \012àTàaàáà/abreve à/abreveacute à/abrevedotbelow à/abrevegrave à/abrevehookabove à/abrevetilde à/acaron àâà/acircumflexacute à/acircumflexdotbelow à/acircumflexgrave à/acircumflexhookabove à/acircumflextilde à/adblgrave àäà/adotbelow ààà/ahookabove à/ainvertedbreve à/amacron à/aogonek àåà/aringacute àãà\012/ahookabove T/ahookabove a/ahookabove á/ahookabove/abreve/ahookabove/abreveacute/ahookabove/abrevedotbelow/ahookabove/abrevegrave/ahookabove/abrevehookabove/ahookabove/abrevetilde/ahookabove/acaron/ahookabove â/ahookabove/acircumflexacute/ahookabove/acircumflexdotbelow/ahookabove/acircumflexgrave/ahookabove/acircumflexhookabove/ahookabove/acircumflextilde/ahookabove/adblgrave/ahookabove ä/ahookabove/adotbelow/ahookabove à/ahookabove/ahookabove/ahookabove/ainvertedbreve/ahookabove/amacron/ahookabove/aogonek/ahookabove å/ahookabove/aringacute/ahookabove ã/ahookabove \012/ainvertedbreve T/ainvertedbreve a/ainvertedbreve á/ainvertedbreve/abreve/ainvertedbreve/abreveacute/ainvertedbreve/abrevedotbelow/ainvertedbreve/abrevegrave/ainvertedbreve/abrevehookabove/ainvertedbreve/abrevetilde/ainvertedbreve/acaron/ainvertedbreve â/ainvertedbreve/acircumflexacute/ainvertedbreve/acircumflexdotbelow/ainvertedbreve/acircumflexgrave/ainvertedbreve/acircumflexhookabove/ainvertedbreve/acircumflextilde/ainvertedbreve/adblgrave/ainvertedbreve ä/ainvertedbreve/adotbelow/ainvertedbreve à/ainvertedbreve/ahookabove/ainvertedbreve/ainvertedbreve/ainvertedbreve/amacron/ainvertedbreve/aogonek/ainvertedbreve å/ainvertedbreve/aringacute/ainvertedbreve ã/ainvertedbreve \012/amacron T/amacron a/amacron á/amacron/abreve/amacron/abreveacute/amacron/abrevedotbelow/amacron/abrevegrave/amacron/abrevehookabove/amacron/abrevetilde/amacron/acaron/amacron â/amacron/acircumflexacute/amacron/acircumflexdotbelow/amacron/acircumflexgrave/amacron/acircumflexhookabove/amacron/acircumflextilde/amacron/adblgrave/amacron ä/amacron/adotbelow/amacron à/amacron/ahookabove/amacron/ainvertedbreve/amacron/amacron/amacron/aogonek/amacron å/amacron/aringacute/amacron ã/amacron \012/aogonek T/aogonek a/aogonek á/aogonek/abreve/aogonek/abreveacute/aogonek/abrevedotbelow/aogonek/abrevegrave/aogonek/abrevehookabove/aogonek/abrevetilde/aogonek/acaron/aogonek â/aogonek/acircumflexacute/aogonek/acircumflexdotbelow/aogonek/acircumflexgrave/aogonek/acircumflexhookabove/aogonek/acircumflextilde/aogonek/adblgrave/aogonek ä/aogonek/adotbelow/aogonek à/aogonek/ahookabove/aogonek/ainvertedbreve/aogonek/amacron/aogonek/aogonek/aogonek å/aogonek/aringacute/aogonek ã/aogonek \012åTåaåáå/abreve å/abreveacute å/abrevedotbelow å/abrevegrave å/abrevehookabove å/abrevetilde å/acaron åâå/acircumflexacute å/acircumflexdotbelow å/acircumflexgrave å/acircumflexhookabove å/acircumflextilde å/adblgrave åäå/adotbelow åàå/ahookabove å/ainvertedbreve å/amacron å/aogonek ååå/aringacute åãå\012/aringacute T/aringacute a/aringacute á/aringacute/abreve/aringacute/abreveacute/aringacute/abrevedotbelow/aringacute/abrevegrave/aringacute/abrevehookabove/aringacute/abrevetilde/aringacute/acaron/aringacute â/aringacute/acircumflexacute/aringacute/acircumflexdotbelow/aringacute/acircumflexgrave/aringacute/acircumflexhookabove/aringacute/acircumflextilde/aringacute/adblgrave/aringacute ä/aringacute/adotbelow/aringacute à/aringacute/ahookabove/aringacute/ainvertedbreve/aringacute/amacron/aringacute/aogonek/aringacute å/aringacute/aringacute/aringacute ã/aringacute \012ãTãaãáã/abreve ã/abreveacute ã/abrevedotbelow ã/abrevegrave ã/abrevehookabove ã/abrevetilde ã/acaron ãâã/acircumflexacute ã/acircumflexdotbelow ã/acircumflexgrave ã/acircumflexhookabove ã/acircumflextilde ã/adblgrave ãäã/adotbelow ãàã/ahookabove ã/ainvertedbreve ã/amacron ã/aogonek ãåã/aringacute ããã\012",
+"/nbspace"
 );
 classes = (
 {
@@ -209,7 +210,7 @@ xHeight = 260;
 glyphs = (
 {
 glyphname = .notdef;
-lastChange = "2022-03-24 20:57:54 +0000";
+lastChange = "2022-03-24 22:06:25 +0000";
 layers = (
 {
 layerId = "2018A826-CC5C-461A-95E5-9D849642E9B7";
@@ -255,7 +256,7 @@ unicode = 000D;
 },
 {
 glyphname = .null;
-lastChange = "2022-03-24 20:57:54 +0000";
+lastChange = "2022-03-24 22:06:25 +0000";
 layers = (
 {
 layerId = "2018A826-CC5C-461A-95E5-9D849642E9B7";
@@ -266,11 +267,11 @@ note = .null;
 },
 {
 glyphname = space;
-lastChange = "2022-03-24 21:51:02 +0000";
+lastChange = "2022-03-24 22:06:08 +0000";
 layers = (
 {
 layerId = "2018A826-CC5C-461A-95E5-9D849642E9B7";
-width = 169;
+width = 170;
 }
 );
 note = space;
@@ -278,11 +279,11 @@ unicode = 0020;
 },
 {
 glyphname = nbspace;
-lastChange = "2022-03-02 02:51:37 +0000";
+lastChange = "2022-03-24 22:06:15 +0000";
 layers = (
 {
 layerId = "2018A826-CC5C-461A-95E5-9D849642E9B7";
-width = 171;
+width = 170;
 }
 );
 widthMetricsKey = space;
@@ -13504,7 +13505,7 @@ unicode = 00EF;
 },
 {
 glyphname = idotaccent;
-lastChange = "2022-03-24 20:57:54 +0000";
+lastChange = "2022-03-24 22:06:25 +0000";
 layers = (
 {
 components = (
@@ -18844,7 +18845,7 @@ unicode = 017C;
 },
 {
 glyphname = f_f;
-lastChange = "2022-03-24 20:57:54 +0000";
+lastChange = "2022-03-24 22:06:25 +0000";
 layers = (
 {
 layerId = "2018A826-CC5C-461A-95E5-9D849642E9B7";
@@ -19027,7 +19028,7 @@ rightKerningGroup = f;
 },
 {
 glyphname = f_f_i;
-lastChange = "2022-03-24 20:57:54 +0000";
+lastChange = "2022-03-24 22:06:25 +0000";
 layers = (
 {
 layerId = "2018A826-CC5C-461A-95E5-9D849642E9B7";
@@ -19260,7 +19261,7 @@ rightKerningGroup = i;
 },
 {
 glyphname = f_f_l;
-lastChange = "2022-03-24 20:57:54 +0000";
+lastChange = "2022-03-24 22:06:25 +0000";
 layers = (
 {
 layerId = "2018A826-CC5C-461A-95E5-9D849642E9B7";
@@ -21140,7 +21141,7 @@ unicode = 0039;
 },
 {
 glyphname = zero.lf;
-lastChange = "2022-03-24 20:57:54 +0000";
+lastChange = "2022-03-24 22:06:25 +0000";
 layers = (
 {
 layerId = "2018A826-CC5C-461A-95E5-9D849642E9B7";
@@ -21233,7 +21234,7 @@ rightKerningGroup = zero;
 },
 {
 glyphname = one.lf;
-lastChange = "2022-03-24 20:57:54 +0000";
+lastChange = "2022-03-24 22:06:25 +0000";
 layers = (
 {
 layerId = "2018A826-CC5C-461A-95E5-9D849642E9B7";
@@ -21339,7 +21340,7 @@ rightKerningGroup = one;
 },
 {
 glyphname = two.lf;
-lastChange = "2022-03-24 20:57:54 +0000";
+lastChange = "2022-03-24 22:06:25 +0000";
 layers = (
 {
 layerId = "2018A826-CC5C-461A-95E5-9D849642E9B7";
@@ -21454,7 +21455,7 @@ rightKerningGroup = two;
 },
 {
 glyphname = three.lf;
-lastChange = "2022-03-24 20:57:54 +0000";
+lastChange = "2022-03-24 22:06:25 +0000";
 layers = (
 {
 layerId = "2018A826-CC5C-461A-95E5-9D849642E9B7";
@@ -21542,7 +21543,7 @@ rightKerningGroup = three;
 },
 {
 glyphname = four.lf;
-lastChange = "2022-03-24 20:57:54 +0000";
+lastChange = "2022-03-24 22:06:25 +0000";
 layers = (
 {
 layerId = "2018A826-CC5C-461A-95E5-9D849642E9B7";
@@ -21645,7 +21646,7 @@ rightKerningGroup = four;
 },
 {
 glyphname = five.lf;
-lastChange = "2022-03-24 20:57:54 +0000";
+lastChange = "2022-03-24 22:06:25 +0000";
 layers = (
 {
 layerId = "2018A826-CC5C-461A-95E5-9D849642E9B7";
@@ -21751,7 +21752,7 @@ rightKerningGroup = five;
 },
 {
 glyphname = six.lf;
-lastChange = "2022-03-24 20:57:54 +0000";
+lastChange = "2022-03-24 22:06:25 +0000";
 layers = (
 {
 layerId = "2018A826-CC5C-461A-95E5-9D849642E9B7";
@@ -21827,7 +21828,7 @@ rightKerningGroup = six;
 },
 {
 glyphname = seven.lf;
-lastChange = "2022-03-24 20:57:54 +0000";
+lastChange = "2022-03-24 22:06:25 +0000";
 layers = (
 {
 layerId = "2018A826-CC5C-461A-95E5-9D849642E9B7";
@@ -21894,7 +21895,7 @@ rightKerningGroup = seven;
 },
 {
 glyphname = eight.lf;
-lastChange = "2022-03-24 20:57:54 +0000";
+lastChange = "2022-03-24 22:06:25 +0000";
 layers = (
 {
 layerId = "2018A826-CC5C-461A-95E5-9D849642E9B7";
@@ -21990,7 +21991,7 @@ rightKerningGroup = eight;
 },
 {
 glyphname = nine.lf;
-lastChange = "2022-03-24 20:57:54 +0000";
+lastChange = "2022-03-24 22:06:25 +0000";
 layers = (
 {
 layerId = "2018A826-CC5C-461A-95E5-9D849642E9B7";
@@ -23921,7 +23922,7 @@ unicode = 005C;
 {
 color = 3;
 glyphname = periodcentered.loclCAT.case;
-lastChange = "2022-03-24 20:57:54 +0000";
+lastChange = "2022-03-24 22:06:25 +0000";
 layers = (
 {
 layerId = "2018A826-CC5C-461A-95E5-9D849642E9B7";
@@ -23952,7 +23953,7 @@ width = 0;
 {
 color = 3;
 glyphname = periodcentered.loclCAT;
-lastChange = "2022-03-24 20:57:54 +0000";
+lastChange = "2022-03-24 22:06:25 +0000";
 layers = (
 {
 layerId = "2018A826-CC5C-461A-95E5-9D849642E9B7";
@@ -24666,7 +24667,7 @@ unicode = 2010;
 },
 {
 glyphname = underscore;
-lastChange = "2022-03-11 14:05:19 +0000";
+lastChange = "2022-03-24 22:06:15 +0000";
 layers = (
 {
 layerId = "2018A826-CC5C-461A-95E5-9D849642E9B7";
@@ -24674,31 +24675,31 @@ paths = (
 {
 closed = 1;
 nodes = (
-"177 -58 OFFCURVE",
-"331 -49 OFFCURVE",
-"392 -49 CURVE SMOOTH",
-"409 -49 OFFCURVE",
-"423 -47 OFFCURVE",
-"423 -32 CURVE SMOOTH",
-"423 -20 OFFCURVE",
-"412 -19 OFFCURVE",
-"390 -18 CURVE SMOOTH",
-"368 -17 OFFCURVE",
-"339 -17 OFFCURVE",
-"310 -17 CURVE SMOOTH",
-"226 -17 OFFCURVE",
-"129 -20 OFFCURVE",
-"89 -22 CURVE SMOOTH",
-"67 -23 OFFCURVE",
-"60 -31 OFFCURVE",
-"60 -39 CURVE SMOOTH",
-"60 -48 OFFCURVE",
-"77 -58 OFFCURVE",
-"108 -58 CURVE SMOOTH"
+"146 -58 OFFCURVE",
+"300 -49 OFFCURVE",
+"361 -49 CURVE SMOOTH",
+"378 -49 OFFCURVE",
+"392 -47 OFFCURVE",
+"392 -32 CURVE SMOOTH",
+"392 -20 OFFCURVE",
+"381 -19 OFFCURVE",
+"359 -18 CURVE SMOOTH",
+"337 -17 OFFCURVE",
+"308 -17 OFFCURVE",
+"279 -17 CURVE SMOOTH",
+"195 -17 OFFCURVE",
+"98 -20 OFFCURVE",
+"58 -22 CURVE SMOOTH",
+"36 -23 OFFCURVE",
+"29 -31 OFFCURVE",
+"29 -39 CURVE SMOOTH",
+"29 -48 OFFCURVE",
+"46 -58 OFFCURVE",
+"77 -58 CURVE SMOOTH"
 );
 }
 );
-width = 483;
+width = 452;
 }
 );
 leftKerningGroup = period;
@@ -34881,7 +34882,7 @@ unicode = 030B;
 {
 color = 3;
 glyphname = caroncomb.alt;
-lastChange = "2022-03-24 20:57:54 +0000";
+lastChange = "2022-03-24 22:06:25 +0000";
 layers = (
 {
 anchors = (
@@ -35448,7 +35449,7 @@ unicode = 030A;
 {
 color = 3;
 glyphname = ringcomb_acutecomb;
-lastChange = "2022-03-24 20:57:54 +0000";
+lastChange = "2022-03-24 22:06:25 +0000";
 layers = (
 {
 anchors = (
@@ -35709,7 +35710,7 @@ unicode = 0303;
 {
 color = 3;
 glyphname = tildecomb_dotaccentcomb;
-lastChange = "2022-03-24 20:57:54 +0000";
+lastChange = "2022-03-24 22:06:25 +0000";
 layers = (
 {
 anchors = (
@@ -35754,7 +35755,7 @@ width = 500;
 {
 color = 3;
 glyphname = tildecomb_macroncomb;
-lastChange = "2022-03-24 20:57:54 +0000";
+lastChange = "2022-03-24 22:06:25 +0000";
 layers = (
 {
 anchors = (
@@ -37534,7 +37535,7 @@ unicode = 02DB;
 {
 color = 3;
 glyphname = dieresiscomb.case;
-lastChange = "2022-03-24 20:57:54 +0000";
+lastChange = "2022-03-24 22:06:25 +0000";
 layers = (
 {
 anchors = (
@@ -37591,7 +37592,7 @@ width = 500;
 {
 color = 3;
 glyphname = dotaccentcomb.case;
-lastChange = "2022-03-24 20:57:54 +0000";
+lastChange = "2022-03-24 22:06:25 +0000";
 layers = (
 {
 anchors = (
@@ -37631,7 +37632,7 @@ width = 500;
 {
 color = 3;
 glyphname = gravecomb.case;
-lastChange = "2022-03-24 20:57:54 +0000";
+lastChange = "2022-03-24 22:06:25 +0000";
 layers = (
 {
 anchors = (
@@ -37693,7 +37694,7 @@ width = 500;
 {
 color = 3;
 glyphname = acutecomb.case;
-lastChange = "2022-03-24 20:57:54 +0000";
+lastChange = "2022-03-24 22:06:25 +0000";
 layers = (
 {
 anchors = (
@@ -37749,7 +37750,7 @@ width = 500;
 {
 color = 3;
 glyphname = hungarumlautcomb.case;
-lastChange = "2022-03-24 20:57:54 +0000";
+lastChange = "2022-03-24 22:06:25 +0000";
 layers = (
 {
 anchors = (
@@ -37838,7 +37839,7 @@ width = 500;
 {
 color = 3;
 glyphname = caroncomb.alt.case;
-lastChange = "2022-03-24 20:57:54 +0000";
+lastChange = "2022-03-24 22:06:25 +0000";
 layers = (
 {
 anchors = (
@@ -37889,7 +37890,7 @@ width = 500;
 {
 color = 3;
 glyphname = circumflexcomb.case;
-lastChange = "2022-03-24 20:57:54 +0000";
+lastChange = "2022-03-24 22:06:25 +0000";
 layers = (
 {
 anchors = (
@@ -37964,7 +37965,7 @@ width = 500;
 {
 color = 3;
 glyphname = caroncomb.case;
-lastChange = "2022-03-24 20:57:54 +0000";
+lastChange = "2022-03-24 22:06:25 +0000";
 layers = (
 {
 anchors = (
@@ -38035,7 +38036,7 @@ width = 500;
 {
 color = 3;
 glyphname = brevecomb.case;
-lastChange = "2022-03-24 20:57:54 +0000";
+lastChange = "2022-03-24 22:06:25 +0000";
 layers = (
 {
 anchors = (
@@ -38110,7 +38111,7 @@ width = 500;
 {
 color = 3;
 glyphname = ringcomb.case;
-lastChange = "2022-03-24 20:57:54 +0000";
+lastChange = "2022-03-24 22:06:25 +0000";
 layers = (
 {
 anchors = (
@@ -38176,7 +38177,7 @@ width = 500;
 {
 color = 3;
 glyphname = ringcomb_acutecomb.case;
-lastChange = "2022-03-24 20:57:54 +0000";
+lastChange = "2022-03-24 22:06:25 +0000";
 layers = (
 {
 anchors = (
@@ -38203,7 +38204,7 @@ width = 500;
 {
 color = 3;
 glyphname = tildecomb.case;
-lastChange = "2022-03-24 20:57:54 +0000";
+lastChange = "2022-03-24 22:06:25 +0000";
 layers = (
 {
 anchors = (
@@ -38271,7 +38272,7 @@ width = 500;
 {
 color = 3;
 glyphname = tildecomb_dotaccentcomb.case;
-lastChange = "2022-03-24 20:57:54 +0000";
+lastChange = "2022-03-24 22:06:25 +0000";
 layers = (
 {
 anchors = (
@@ -38298,7 +38299,7 @@ width = 500;
 {
 color = 3;
 glyphname = tildecomb_macroncomb.case;
-lastChange = "2022-03-24 20:57:54 +0000";
+lastChange = "2022-03-24 22:06:25 +0000";
 layers = (
 {
 anchors = (
@@ -38325,7 +38326,7 @@ width = 500;
 {
 color = 3;
 glyphname = macroncomb.case;
-lastChange = "2022-03-24 20:57:54 +0000";
+lastChange = "2022-03-24 22:06:25 +0000";
 layers = (
 {
 anchors = (
@@ -38378,7 +38379,7 @@ width = 500;
 {
 color = 3;
 glyphname = hookabovecomb.case;
-lastChange = "2022-03-24 20:57:54 +0000";
+lastChange = "2022-03-24 22:06:25 +0000";
 layers = (
 {
 anchors = (
@@ -38442,7 +38443,7 @@ width = 500;
 {
 color = 3;
 glyphname = dblgravecomb.case;
-lastChange = "2022-03-24 20:57:54 +0000";
+lastChange = "2022-03-24 22:06:25 +0000";
 layers = (
 {
 anchors = (
@@ -38543,7 +38544,7 @@ width = 500;
 {
 color = 3;
 glyphname = breveinvertedcomb.case;
-lastChange = "2022-03-24 20:57:54 +0000";
+lastChange = "2022-03-24 22:06:25 +0000";
 layers = (
 {
 anchors = (
@@ -38614,7 +38615,7 @@ width = 500;
 {
 color = 3;
 glyphname = commaturnedabovecomb.case;
-lastChange = "2022-03-24 20:57:54 +0000";
+lastChange = "2022-03-24 22:06:25 +0000";
 layers = (
 {
 anchors = (
@@ -38673,7 +38674,7 @@ width = 500;
 {
 color = 3;
 glyphname = horncomb.case;
-lastChange = "2022-03-24 20:57:54 +0000";
+lastChange = "2022-03-24 22:06:25 +0000";
 layers = (
 {
 anchors = (
@@ -38721,7 +38722,7 @@ width = 500;
 {
 color = 3;
 glyphname = dotbelowcomb.case;
-lastChange = "2022-03-24 20:57:54 +0000";
+lastChange = "2022-03-24 22:06:25 +0000";
 layers = (
 {
 anchors = (
@@ -38761,7 +38762,7 @@ width = 500;
 {
 color = 3;
 glyphname = dieresisbelowcomb.case;
-lastChange = "2022-03-24 20:57:54 +0000";
+lastChange = "2022-03-24 22:06:25 +0000";
 layers = (
 {
 anchors = (
@@ -38818,7 +38819,7 @@ width = 500;
 {
 color = 3;
 glyphname = commaaccentcomb.case;
-lastChange = "2022-03-24 20:57:54 +0000";
+lastChange = "2022-03-24 22:06:25 +0000";
 layers = (
 {
 anchors = (
@@ -38877,7 +38878,7 @@ width = 500;
 {
 color = 3;
 glyphname = cedillacomb.case;
-lastChange = "2022-03-24 20:57:54 +0000";
+lastChange = "2022-03-24 22:06:25 +0000";
 layers = (
 {
 anchors = (
@@ -39060,7 +39061,7 @@ width = 500;
 {
 color = 3;
 glyphname = ogonekcomb.case;
-lastChange = "2022-03-24 20:57:54 +0000";
+lastChange = "2022-03-24 22:06:25 +0000";
 layers = (
 {
 anchors = (
@@ -39117,7 +39118,7 @@ width = 500;
 {
 color = 3;
 glyphname = brevebelowcomb.case;
-lastChange = "2022-03-24 20:57:54 +0000";
+lastChange = "2022-03-24 22:06:25 +0000";
 layers = (
 {
 anchors = (
@@ -39188,7 +39189,7 @@ width = 500;
 {
 color = 3;
 glyphname = macronbelowcomb.case;
-lastChange = "2022-03-24 20:57:54 +0000";
+lastChange = "2022-03-24 22:06:25 +0000";
 layers = (
 {
 anchors = (
@@ -39241,7 +39242,7 @@ width = 500;
 {
 color = 3;
 glyphname = strokeshortcomb.case;
-lastChange = "2022-03-24 20:57:54 +0000";
+lastChange = "2022-03-24 22:06:25 +0000";
 layers = (
 {
 anchors = (
@@ -39290,7 +39291,7 @@ width = 500;
 {
 color = 3;
 glyphname = brevecomb_acutecomb;
-lastChange = "2022-03-24 21:18:19 +0000";
+lastChange = "2022-03-24 22:06:25 +0000";
 layers = (
 {
 anchors = (
@@ -39316,7 +39317,7 @@ width = 500;
 {
 color = 3;
 glyphname = brevecomb_gravecomb;
-lastChange = "2022-03-24 21:18:19 +0000";
+lastChange = "2022-03-24 22:06:25 +0000";
 layers = (
 {
 anchors = (
@@ -39342,7 +39343,7 @@ width = 500;
 {
 color = 3;
 glyphname = brevecomb_hookabovecomb;
-lastChange = "2022-03-24 20:57:54 +0000";
+lastChange = "2022-03-24 22:06:25 +0000";
 layers = (
 {
 anchors = (
@@ -39369,7 +39370,7 @@ width = 500;
 {
 color = 3;
 glyphname = brevecomb_tildecomb;
-lastChange = "2022-03-24 20:57:54 +0000";
+lastChange = "2022-03-24 22:06:25 +0000";
 layers = (
 {
 anchors = (
@@ -39396,7 +39397,7 @@ width = 500;
 {
 color = 3;
 glyphname = circumflexcomb_acutecomb;
-lastChange = "2022-03-24 20:57:54 +0000";
+lastChange = "2022-03-24 22:06:25 +0000";
 layers = (
 {
 anchors = (
@@ -39423,7 +39424,7 @@ width = 500;
 {
 color = 3;
 glyphname = circumflexcomb_gravecomb;
-lastChange = "2022-03-24 20:57:54 +0000";
+lastChange = "2022-03-24 22:06:25 +0000";
 layers = (
 {
 anchors = (
@@ -39450,7 +39451,7 @@ width = 500;
 {
 color = 3;
 glyphname = circumflexcomb_hookabovecomb;
-lastChange = "2022-03-24 20:57:54 +0000";
+lastChange = "2022-03-24 22:06:25 +0000";
 layers = (
 {
 anchors = (
@@ -39477,7 +39478,7 @@ width = 500;
 {
 color = 3;
 glyphname = circumflexcomb_tildecomb;
-lastChange = "2022-03-24 20:57:54 +0000";
+lastChange = "2022-03-24 22:06:25 +0000";
 layers = (
 {
 anchors = (
@@ -39504,7 +39505,7 @@ width = 500;
 {
 color = 3;
 glyphname = brevecomb_acutecomb.case;
-lastChange = "2022-03-24 20:57:54 +0000";
+lastChange = "2022-03-24 22:06:25 +0000";
 layers = (
 {
 anchors = (
@@ -39531,7 +39532,7 @@ width = 500;
 {
 color = 3;
 glyphname = brevecomb_gravecomb.case;
-lastChange = "2022-03-24 20:57:54 +0000";
+lastChange = "2022-03-24 22:06:25 +0000";
 layers = (
 {
 anchors = (
@@ -39558,7 +39559,7 @@ width = 500;
 {
 color = 3;
 glyphname = brevecomb_hookabovecomb.case;
-lastChange = "2022-03-24 20:57:54 +0000";
+lastChange = "2022-03-24 22:06:25 +0000";
 layers = (
 {
 anchors = (
@@ -39585,7 +39586,7 @@ width = 500;
 {
 color = 3;
 glyphname = brevecomb_tildecomb.case;
-lastChange = "2022-03-24 20:57:54 +0000";
+lastChange = "2022-03-24 22:06:25 +0000";
 layers = (
 {
 anchors = (
@@ -39612,7 +39613,7 @@ width = 500;
 {
 color = 3;
 glyphname = circumflexcomb_acutecomb.case;
-lastChange = "2022-03-24 20:57:54 +0000";
+lastChange = "2022-03-24 22:06:25 +0000";
 layers = (
 {
 anchors = (
@@ -39639,7 +39640,7 @@ width = 500;
 {
 color = 3;
 glyphname = circumflexcomb_gravecomb.case;
-lastChange = "2022-03-24 20:57:54 +0000";
+lastChange = "2022-03-24 22:06:25 +0000";
 layers = (
 {
 anchors = (
@@ -39666,7 +39667,7 @@ width = 500;
 {
 color = 3;
 glyphname = circumflexcomb_hookabovecomb.case;
-lastChange = "2022-03-24 20:57:54 +0000";
+lastChange = "2022-03-24 22:06:25 +0000";
 layers = (
 {
 anchors = (
@@ -39693,7 +39694,7 @@ width = 500;
 {
 color = 3;
 glyphname = circumflexcomb_tildecomb.case;
-lastChange = "2022-03-24 20:57:54 +0000";
+lastChange = "2022-03-24 22:06:25 +0000";
 layers = (
 {
 anchors = (
